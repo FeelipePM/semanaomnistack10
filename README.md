@@ -13,8 +13,15 @@
 
 A idéia do projeto é encontrar desenvolvedores por meio da sua localidadde em um raio de 10km
 
-## 📝 Licença
+<div align="center">
 
-Este projeto usa a licença MIT, você pode ser a [LICENSE](https://github.com/FeelipePM/semanaomnistack10/blob/master/LICENSE.md) para mais detalhes.
+Made with 💜 by <span>
+<a href="https://github.com/FeelipePM" style="color:#7159c1;">FeelipePM</a>
+</span> 👋🏼
 
-Code by 👨🏻‍💻 [FelipePM](https://github.com/FeelipePM) 👋🏼
+<span>
+Under 📝
+   <a href="https://github.com/FeelipePM/semanaomnistack10/blob/master/LICENSE.md" style="color:#7159c1;">MIT License</a> 
+</span>
+
+</div>
