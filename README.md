@@ -1,6 +1,10 @@
-# Semana Omnistack 10
+<h1 align="center">
+    <img alt="DevRadar" title="DevRadar" src=".github/devradar.svg" width="250px" />
+</h1>
 
-### 🚀 Rocketseat
+<h3 align="center">
+  🚀 Semana OmniStack 10.0
+</h3>
 
 ## Tecnologias Utilizadas
 
