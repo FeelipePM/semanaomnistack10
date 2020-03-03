@@ -6,26 +6,34 @@
   🚀 Semana OmniStack 10.0
 </h3>
 
-## Tecnologias Utilizadas
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-- Node.JS
-- React
-- React Native
-- Expo
+<br>
 
-## 👨🏻‍💻 DevRadar
+## 🚀 Tecnologias
 
-A idéia do projeto é encontrar desenvolvedores por meio da sua localidadde em um raio de 10km
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 DevRadar
+
+O DevRadar é um projeto que conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 <div align="center">
 
-Made with 💜 by <span>
+Feito com 💜 por <span>
 <a href="https://github.com/FeelipePM" style="color:#7159c1;">FeelipePM</a>
 </span> 👋🏼
 
 <span>
-Under 📝
-   <a href="https://github.com/FeelipePM/semanaomnistack10/blob/master/LICENSE.md" style="color:#7159c1;">MIT License</a> 
+Sob 📝
+   <a href="https://github.com/FeelipePM/semanaomnistack10/blob/master/LICENSE.md" style="color:#7159c1;">Licença MIT</a> 
 </span>
 
 </div>
