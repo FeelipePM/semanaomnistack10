@@ -13,11 +13,11 @@
 </p>
 
 <br>
-
-<div display="inline-block">
-  <img alt="DevRadar" title="DevRadar" src=".github/preview2.png" width="100%" />
-    <br>
-  <img alt="DevRadar" title="DevRadar" src=".github/preview1.jpg" width="100%" />
+<div align="center">
+  <img margin-bottom="20px" alt="DevRadar" title="DevRadar" src=".github/preview2.png" width="80%" />
+  <br>
+  <br>
+  <img alt="DevRadar" title="DevRadar" src=".github/preview1.jpg" width="80%" />
 </div>
 
 ## 🚀 Tecnologias
